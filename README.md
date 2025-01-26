@@ -12,15 +12,14 @@
 
 
 
-- 🔭 I’m currently working on [Crimson College of technology] (https://cct.edu.np/)
+- 🔭 Working Domain on [Crimson College of technology] (https://cct.edu.np/), [Lumbini City College], [Darsan Infosys]
 
-- 👯 I’m looking to collaborate on GitHub [Nepali Tech Entrepreneur's](https://github.com/geekfreaks)
 
-- 👨‍💻 All of my projects are available at [https://github.com/solowings02/](https://github.com/solowings02/)
+- 👨‍💻 Sniff the projects via [https://github.com/sanjeevlcc/sanjeevlcc](https://github.com/sanjeevlcc/sanjeevlcc)
 
-- 💬 Ask me about **JavaScript, ReactJS , NextJS**
+- 💬 Expertise Timeline ** Operation and MLOPS, Docker Orchestration, Kubernetes, Helm, Openshift, Openstack-Packstack, AWS, Azure, Lambda  **
 
-- 📫 How to Get In Contact **sanjeevthapa2924@gmail.com**
+- 📫 Buzz me on **sanjeevthapa2924@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
