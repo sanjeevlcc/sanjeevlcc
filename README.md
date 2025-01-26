@@ -3,7 +3,7 @@
 <h3 align="center">Certified Engineer : RHCSA , RHCE, RHCSA Openstack, MTCNA, MTCINE , HE IPv6, KCNA, DevOps Engineer, SER Engineer</h3>
 <img src="https://img.etimg.com/thumb/msid-84146083,width-1015,height-761,imgsize-638053,resizemode-8,quality-100/prime/technology-and-startups/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.jpg" alt="coding">
 
-<p align="left"> <a href="https://twitter.com/@amritpokharel02" target="blank"><img src="https://img.shields.io/twitter/follow/@amritpokharel02?logo=twitter&style=for-the-badge" alt="@amritpokharel02" /></a> </p>
+<p align="left"> <a href="https://twitter.com/@pokharel02" target="blank"><img src="https://img.shields.io/twitter/follow/@pokharel02?logo=twitter&style=for-the-badge" alt="@pokharel02" /></a> </p>
 
 - 🔭 I’m currently working on [Bluebird Design & Construction](https://www.bluebirdconstruction.com.np)
 
@@ -17,11 +17,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/@amritpokhare01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@amritpokhare01" height="30" width="40" /></a>
-<a href="https://twitter.com/@amritpokharel02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@amritpokharel02" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/amrit-pokharel-015123226" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/amrit-pokharel-015123226" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/amritpokharelt10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/amritpokharelt10" height="30" width="40" /></a>
-<a href="https://instagram.com/amritpokharel_01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="amritpokharel_01" height="30" width="40" /></a>
+<a href="https://codepen.io/@pokhare01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@pokhare01" height="30" width="40" /></a>
+<a href="https://twitter.com/@pokharel02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@pokharel02" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/-pokharel-015123226" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/-pokharel-015123226" height="30" width="40" /></a>
+<a href="https://fb.com/https://www.facebook.com/pokharelt10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/pokharelt10" height="30" width="40" /></a>
+<a href="https://instagram.com/pokharel_01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pokharel_01" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/nepali tech entrepreneur's" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="nepali tech entrepreneur's" height="30" width="40" /></a>
 </p>
 
