@@ -1,11 +1,18 @@
  [![]()](https://github.com/sanjeevlcc.git) 
     <h1 align="center"> 👋 Independent Researcher in DevOps and SRE as Sanjeev Thapa </h1>
-<h3 align="center">Certified Engineer : RHCSA , RHCE, RHCSA Openstack, MTCNA, MTCINE , HE IPv6, KCNA, DevOps Engineer, SER Engineer</h3>
+
+    
+<h3 align="center">Certified Engineer : RHCSA , RHCE, RHCSA Openstack, MTCNA, MTCINE , HBGP E IPv6, CKNA, DevOps , SRE </h3>
+</br>
+
+
+
+
 <img src="https://img.etimg.com/thumb/msid-84146083,width-1015,height-761,imgsize-638053,resizemode-8,quality-100/prime/technology-and-startups/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.jpg" alt="coding">
 
 <p align="left"> <a href="https://twitter.com/@pokharel02" target="blank"><img src="https://img.shields.io/twitter/follow/@pokharel02?logo=twitter&style=for-the-badge" alt="@pokharel02" /></a> </p>
 
-- 🔭 I’m currently working on [Bluebird Design & Construction](https://www.bluebirdconstruction.com.np)
+- 🔭 I’m currently working on [Crimson College of technology] (https://cct.edu.np/)
 
 - 👯 I’m looking to collaborate on GitHub [Nepali Tech Entrepreneur's](https://github.com/geekfreaks)
 
