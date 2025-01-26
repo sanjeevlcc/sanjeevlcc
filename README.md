@@ -1,4 +1,4 @@
- [![]()](https://github.com/solowings02/solowings02.git) 
+ [![]()](https://github.com/sanjeevlccgit) 
     <h1 align="center"> 👋 Independent Researcher in DevOps and SRE as Sanjeev Thapa </h1>
 <h3 align="center">Certified Engineer : RHCSA , RHCE, RHCSA Openstack, MTCNA, MTCINE , HE IPv6, KCNA, DevOps Engineer, SER Engineer</h3>
 <img src="https://img.etimg.com/thumb/msid-84146083,width-1015,height-761,imgsize-638053,resizemode-8,quality-100/prime/technology-and-startups/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.jpg" alt="coding">
@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **JavaScript, ReactJS , NextJS**
 
-- 📫 How to Get In Contact **pokharelamrit16@gmail.com**
+- 📫 How to Get In Contact **sanjeevthapa2924@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
