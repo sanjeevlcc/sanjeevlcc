@@ -1,6 +1,6 @@
  [![]()](https://github.com/solowings02/solowings02.git) 
-    <h1 align="center">Hi 👋, I'm Amrit Pokharel</h1>
-<h3 align="center">A Full-Stack Web Developer from Butwal, Nepal.</h3>
+    <h1 align="center"> 👋 Independent Researcher in DevOps and SRE as Sanjeev Thapa </h1>
+<h3 align="center">Certified Engineer : RHCSA , RHCE, RHCSA Openstack, MTCNA, MTCINE , HE IPv6, KCNA, DevOps Engineer, SER Engineer</h3>
 <img src="https://img.etimg.com/thumb/msid-84146083,width-1015,height-761,imgsize-638053,resizemode-8,quality-100/prime/technology-and-startups/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.jpg" alt="coding">
 
 <p align="left"> <a href="https://twitter.com/@amritpokharel02" target="blank"><img src="https://img.shields.io/twitter/follow/@amritpokharel02?logo=twitter&style=for-the-badge" alt="@amritpokharel02" /></a> </p>
